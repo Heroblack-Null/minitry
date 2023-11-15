@@ -1,0 +1,18 @@
+{
+  "size": 1,
+  "researchCostMultiplier": 0.5,
+  "health": 1000,
+  "itemCapacity": 2000,
+  "requirements": [
+    { "item": "scrap","amount": 1000}
+  ],
+  "category": "effect",
+  "research": {
+    "parent": "scrap",
+    "requirements": [
+      "scrap/500"
+    ]
+  },
+  "unitType": "scrap-mini",
+  "unitCapModifier": 5
+}
