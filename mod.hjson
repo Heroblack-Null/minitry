@@ -1,0 +1,14 @@
+{
+    displayName: Minitry
+    repo: Heroblack303/minitry
+    name: minitry
+
+    author: Heroblack303
+        
+    description:
+        Minitry
+
+    subtitle: "Minitry yes!"
+    minGameVersion: 146
+    version: "0.1"
+}
