@@ -10,7 +10,7 @@
   "research": {
     "parent": "scrap",
     "requirements": [
-      "scrap/500"
+      "stone/500"
     ]
   },
   "unitType": "stone-mini",

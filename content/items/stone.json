@@ -1,0 +1,12 @@
+{
+  "name": "Stone",
+  "description": "In geology, rock (or stone) is any naturally occurring solid mass or aggregate of minerals or mineraloid matter.",
+  "cost": 1,
+  "color": "4a4b53",
+  "hardness": 1,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+   "research": {}
+}
